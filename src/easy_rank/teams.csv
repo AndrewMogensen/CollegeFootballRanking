@@ -1,0 +1,131 @@
+team	margin	SOS	W	L
+63	Air Force	0.1	76	3	5
+86	Akron	-7	97	4	3
+1	Alabama	38.2	27	8	0
+14	App State	15	60	5	2
+70	Arizona	-1.5	57	4	5
+43	Arizona St	6	37	4	4
+114	Arkansas	-12.6	68	2	7
+92	Arkansas St	-7.9	91	4	4
+22	Army	12.2	51	6	2
+44	Auburn	5.9	22	5	3
+100	Ball State	-10.4	119	3	6
+93	Baylor	-8.1	55	4	4
+13	Boise State	15.5	62	6	2
+32	Boston Col	8.6	47	6	2
+129	Bowling Grn	-26.3	98	1	7
+34	Buffalo	8	86	7	1
+80	BYU	-3.3	59	4	4
+66	California	-0.1	71	5	3
+3	Central FL	24.3	90	7	0
+113	Central Mich	-12.6	95	1	8
+88	Charlotte	-7.3	126	4	4
+19	Cincinnati	13	81	7	1
+2	Clemson	29.7	11	8	0
+85	Coastal Car	-6.3	109	5	3
+47	Colorado	4.9	65	5	3
+107	Colorado St	-12.4	114	3	6
+130	Connecticut	-31.4	113	1	7
+54	Duke	3	38	5	3
+109	E Carolina	-12.5	101	2	5
+69	E Michigan	-0.8	63	4	5
+102	Fla Atlantic	-11	80	3	5
+33	Florida	8.4	6	6	2
+30	Florida Intl	9.4	112	6	2
+87	Florida St	-7.3	50	4	4
+7	Fresno St	20.3	78	7	1
+25	GA Southern	10.1	96	7	1
+42	GA Tech	6.3	45	4	4
+9	Georgia	19	4	7	1
+115	Georgia State	-13.4	111	2	6
+81	Hawaii	-3.7	120	6	4
+16	Houston	14.6	79	7	1
+121	Illinois	-16.4	93	3	5
+77	Indiana	-2.9	40	4	5
+23	Iowa	12.1	20	6	2
+52	Iowa State	3	1	4	3
+78	Kansas	-3	67	3	5
+89	Kansas St	-7.4	39	3	5
+125	Kent State	-19.4	108	1	7
+31	Kentucky	9	10	7	1
+90	LA Lafayette	-7.6	105	4	4
+116	LA Monroe	-13.6	117	4	4
+59	LA Tech	1.6	94	6	2
+74	Liberty	-2.5	116	4	3
+124	Louisville	-19.4	82	2	6
+18	LSU	13	2	7	1
+48	Marshall	4.8	102	5	2
+37	Maryland	7.1	48	5	3
+40	Memphis	6.4	84	4	4
+39	Miami (FL)	6.4	31	5	3
+61	Miami (OH)	1.4	87	3	5
+6	Michigan	21.6	9	7	1
+56	Michigan St	2.4	7	5	3
+76	Middle Tenn	-2.9	88	5	3
+71	Minnesota	-1.5	41	4	4
+36	Miss State	7.4	8	5	3
+68	Mississippi	-0.7	43	5	3
+57	Missouri	2.3	5	4	4
+104	N Carolina	-11.3	44	1	6
+83	N Illinois	-4	58	5	3
+122	N Mex State	-17.9	123	2	7
+112	Navy	-12.6	75	2	6
+50	NC State	4.3	36	5	2
+99	Nebraska	-9.3	42	2	6
+84	Nevada	-5.6	74	5	4
+97	New Mexico	-8.9	103	3	5
+12	North Texas	16.2	107	7	2
+60	Northwestern	1.5	26	5	3
+15	Notre Dame	14.9	34	8	0
+27	Ohio	9.9	99	5	3
+8	Ohio State	20.1	14	7	1
+4	Oklahoma	23.2	19	7	1
+45	Oklahoma St	5.6	46	5	3
+110	Old Dominion	-12.6	100	2	7
+55	Oregon	2.6	56	5	3
+126	Oregon St	-21.6	77	2	6
+10	Penn State	18.8	17	6	2
+98	Pittsburgh	-9	28	4	4
+26	Purdue	10.1	21	4	4
+128	Rice	-23	125	1	8
+123	Rutgers	-18.6	92	1	7
+127	S Alabama	-22	110	2	6
+53	S Carolina	3	12	4	3
+51	S Florida	4	106	7	1
+120	S Methodist	-15.3	61	3	5
+73	S Mississippi	-1.7	128	3	4
+67	San Diego St	-0.3	69	6	2
+118	San Jose St	-14	121	1	7
+62	Stanford	0.9	25	5	3
+28	Syracuse	9.7	52	6	2
+24	Temple	10.7	70	5	3
+111	Tennessee	-12.6	18	3	5
+41	Texas	6.4	23	6	2
+58	Texas A&M	2.1	3	5	3
+95	Texas State	-8.3	130	2	6
+46	Texas Tech	5.1	16	5	3
+65	Toledo	-0.1	66	4	4
+49	Troy	4.7	104	6	2
+91	Tulane	-7.6	73	3	5
+101	Tulsa	-10.9	85	1	7
+79	TX Christian	-3.3	13	3	5
+117	TX El Paso	-13.9	129	0	8
+106	TX-San Ant	-11.4	127	3	5
+119	U Mass	-14.2	118	3	6
+17	UAB	13.6	115	7	1
+103	UCLA	-11.2	15	2	6
+108	UNLV	-12.4	122	2	6
+72	USC	-1.6	24	4	4
+21	Utah	12.6	29	6	2
+5	Utah State	22.3	72	7	1
+75	VA Tech	-2.7	49	4	3
+64	Vanderbilt	0	35	4	5
+38	Virginia	6.7	53	6	2
+105	W Kentucky	-11.3	124	1	7
+82	W Michigan	-3.9	89	6	3
+11	W Virginia	17.8	33	6	1
+94	Wake Forest	-8.3	64	4	4
+20	Wash State	12.9	54	7	1
+35	Washington	7.5	30	6	3
+29	Wisconsin	9.6	32	5	3
+96	Wyoming	-8.8	83	3	6
